@@ -1,0 +1,13 @@
+{
+  "name": "survey-supabase-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2"
+  }
+}
